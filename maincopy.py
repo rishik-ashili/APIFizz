@@ -11,6 +11,12 @@ st.set_page_config(
 )
 
 # Constants
+BASE_API_URL = "https://api.langflow.astra.datastax.com"
+LANGFLOW_ID = "a251ca29-c516-4b2d-b0a8-dc39c2749687"
+FLOW_ID = "3dc77fa4-aa61-4d35-942a-3f6cf9701a25"
+APPLICATION_TOKEN = "AstraCS:ZHsnZmhaGgvUzDpdCJvKfyEt:21032a68e1a1f15903d7e08a4bf89962d805158dc3c5c162c7edbf46d694cace"
+
+TWEAKS = {
 
   "File-iv48A": {},
   "ParseData-TDP68": {},
